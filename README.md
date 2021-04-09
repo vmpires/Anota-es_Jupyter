@@ -8,3 +8,7 @@ Anotações teóricas da base de Python
 3) Teoria de Listas, Tuplas, Dicts e Conjuntos em Python
 
 4) Aninhamento de estruturas em Python
+
+5) Funções em Python
+
+6) Programação Orientada a Objetos em Python
