@@ -14,3 +14,5 @@ Anotações teóricas da base de Python.
 6) Programação Orientada a Objetos em Python.
 
 7) Análise de dados em Python com PANDAS e PLOTLY.
+
+8) Análise de dados e modelos de IA em Python + Pandas + Seaborn + sklearn
